@@ -43,13 +43,14 @@ h1 {
     background-color: #63B1BC;
     order: 3;
     align-self: flex-end;
-    margin-right: 6em;
+    margin-right: 290px;
 }
 
 .cor3 {
     background-color: #EFB661;
     order: 2;
     align-self: center;
+    margin-right: 290px;
 }
 
 .instrucoes {
