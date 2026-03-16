@@ -1,26 +1,35 @@
-/* Siga as orientações no arquivo README para concluir o exercício */
+    .container {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: green;
+      color: orange;
+    }
 
-.container {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    background-color: rgb(112, 255, 112);
-}
 
-.cabecalho {
-    color: rgb(0, 112, 24);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+    .cabecalho {
+      background-color: blue;
+      text-align: center;
+    }
 
-.cabecalho p:first-child {
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    font-size: 32px;
-}
 
-.cabecalho p :nth-child(2) {
-    color: white;
+    .titulo {
+      font-size: 32px;
+      font-weight: bold;
+      color: pink;
+    }
+
+
+    .subtitulo {
+      color: white;
+    }
+
+
+    .conteudo {
+      background-color: brown;
+      color: red;
+    }
+
     
-
-}
+    .conteudo h1 {
+      color: purple;
+    }
